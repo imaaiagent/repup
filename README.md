@@ -29,17 +29,15 @@ You make a lot of commits → **it gets chaotic.**
 /   (_____/
 /_____/   U
 
-   REPUP · my-project
+        REPUP 🐶
+ 
+        LEVEL 7
+        XP 684
+        
+        mood: EXCITED
+        streak: 9 days
 
-   mood     excited
-   level    7
-   xp       684
-   commits  42
-   today    6
-   streak   9
-   energy   [██████████]
-
-   "WE ARE SHIPPING."
+        "WE ARE SHIPPING."
 
    last commit
    └─ make the thing actually work
