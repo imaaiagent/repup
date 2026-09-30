@@ -23,13 +23,11 @@ You disappear → **it gets sleepy.**
 You make a lot of commits → **it gets chaotic.**
 
 ```text
-        ᕙ(•̀‸•́)ᕗ
-
-       /|       |\
-      / |  GIT  | \
-     /  |       |  \
-        |_______|
-        |  PET  |
+ / \__
+(    @\___
+ /         O
+/   (_____/
+/_____/   U
 
    REPUP · my-project
 
